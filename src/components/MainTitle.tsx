@@ -16,7 +16,7 @@ const MainTitle = () => {
 		<div className="relative w-full h-screen flex flex-col items-center justify-center group/outer">
 			<div className="flex flex-col items-center justify-center gap-3">
 				<p className="text-xl">Hear How They Level Up Their Game!</p>
-				<p className="font-extrabold text-2xl text-gray-900">
+				<p className="font-extrabold text-2xl text-gray-900 nohemi">
 					Skill <span className="text-green">Masters</span> Unite!🤝
 				</p>
 				<div>
