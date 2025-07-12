@@ -5,8 +5,6 @@
   --color-dark-pink:#C33340;
   --color-light-pink: #F9EBEC;
   --color-green:#1da176;
-  --animate-signal-arrow:signal-arrow 1.5s ease-in-out infinite;
-  --animate-signal-text:signal-text 1.5s ease-in-out infinite;
   --animate-shrink-grow:shrink-grow 1.5s ease-in-out infinite;
   --animate-floating-up:floating-up 5s ease-in-out infinite;
   --animate-floating-down:floating-down 5s ease-in-out infinite;

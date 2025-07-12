@@ -1,15 +1,14 @@
 import { ArrowRightIcon } from "@radix-ui/react-icons";
-import React from "react";
 import happyLifeGif from "../assets/happy-life.gif";
+import testimonial6 from "../assets/image 16.png";
+import testimonial5 from "../assets/image 20.png";
 import testimonial1 from "../assets/image 21.png";
+import likeGif from "../assets/like.gif";
+import likesGif from "../assets/likes.gif";
+import testimonial4 from "../assets/person-5.png";
 import testimonial2 from "../assets/testemonial-1.png";
 import testimonial3 from "../assets/testemonial-2.png";
-import testimonial4 from "../assets/person-5.png";
-import testimonial5 from "../assets/image 20.png";
-import testimonial6 from "../assets/image 16.png";
-import likeGif from "../assets/like.gif";
 import trophyGif from "../assets/trophy.gif";
-import likesGif from "../assets/likes.gif";
 import testimonialVideo from "../assets/video.mp4";
 
 const MainTitle = () => {

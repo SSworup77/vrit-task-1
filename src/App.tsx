@@ -1,4 +1,3 @@
-import React from "react";
 import BgComponent from "./components/BgComponent";
 import MainTitle from "./components/MainTitle";
 
